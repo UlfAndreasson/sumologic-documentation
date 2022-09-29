@@ -1558,3 +1558,4 @@ The following table provides a list of all source parameters and their default v
 | `email_notifications`	Email Notifications to be sent by the alert. | `[ ]` |
 | `connection_notifications` | Connection Notifications to be sent by the alert. | `[ ]` |
 | `parent_folder_id` | The folder ID is automatically generated. Do not enter a value for this parameter. This is the folder ID to install the apps into. A folder using the provided name will be added in "apps_folder_name". If the folder ID is empty, apps will be installed in the Personal folder. | Ignore this parameter. |
+  
